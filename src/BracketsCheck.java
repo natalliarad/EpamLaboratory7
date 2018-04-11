@@ -1,5 +1,5 @@
 /**
- * Black and Red Tree - a self-balancing binary search tree. It has methods: {@link
+ * Check the correctness of the brackets. It has methods: {@link
  * #checkBrackets(String)}, {@link #getErrorCounter()}.
  *
  * @author Natallia Radaman
